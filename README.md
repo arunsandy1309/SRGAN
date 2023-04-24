@@ -1,1 +1,1 @@
-# SRGAN
+# Stable Diffusion - Tesorflow Implementation
